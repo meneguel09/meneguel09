@@ -1,5 +1,5 @@
 - **K.MENEGUEL**
-- **CL JOÃO CIONEK**
+- **JOÃO CIONEK**
 - **PENSAMENTO COMPUTACIONAL** 
--
+
 
